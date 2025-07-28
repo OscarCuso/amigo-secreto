@@ -24,3 +24,12 @@ function recorreAmigos (){
         listaAmigos.appendChild(lista)
     }
 }
+
+function sortearAmigo (){
+    if (amigos != []){
+        listaAmigos.innerHTML = ""
+        let indice = parseInt(Math.floor(Math.random() * amigos.length))
+        let resultado = document.getElementById("resultado")
+        resultado.innerHTML = `El Amigo secreto sorteado es: ${amigos[indice]}`
+    }
+}
