@@ -17,9 +17,12 @@ Para instalar el proyecto se necesita clonar el repositorio
 ```bash
 Abrir index.html
 ```
-En la caja de texto ingresa el nombre que vas a agregar a la lista y dar clic en añadir, asi con todos los nombres que quiereas agregar.
+En la caja de texto ingresa el nombre que vas a agregar a la lista y dar clic en añadir, asi con todos los nombres que quieras agregar.
+![imagen1](images/amigo%20secreto1.jpg)
 Despues de haber agragado todos los nombres dale clic en Sortear amigo.
+![imaagen2](images/amigo%20secreto2.jpg)
 Y aparecera tu amigo secreto
+![imgen3](images/amigo%20secreto3.jpg)
 
 ## Pagina del Proyecto
 
